@@ -1,5 +1,13 @@
 {
-  "article_tarif": [
+  "article_tarif": [{
+      "uid": "fb779f7e-4b65-4777-bd2c-e48bcd1647ad",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "uid_a": "952bf863-a424-4a79-aea9-c5b2778d5000",
+	  "date_debut": "01/01/2026 00:00:00.000000",
+	  "date_fin": "31/12/2026 23:59:59.999999",
+	  "uid_unite_1": "aa5cf19d-14f0-4f14-87eb-156512fdcd09",
+	  "prix": 1.00
+    },
     {
       "uid": "7e1268a5-7756-49bb-aa32-5080364934da",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
