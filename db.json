@@ -6,7 +6,11 @@
 	  "date_debut": "01/01/2026 00:00:00.000000",
 	  "date_fin": "31/12/2026 23:59:59.999999",
 	  "uid_unite_1": "aa5cf19d-14f0-4f14-87eb-156512fdcd09",
-	  "prix": 1.00
+	  "prix": 1.00,
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
     {
       "uid": "7e1268a5-7756-49bb-aa32-5080364934da",
@@ -17,7 +21,11 @@
 	  "uid_unite_1": "06698629-3142-4214-9066-c35f58e324e7",
 	  "prix": 0.00,
 	  "uid_t": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
     {
       "uid": "bd82fba5-d712-4ca2-be60-3f2234c22759",
@@ -29,7 +37,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "e9258971-fe12-4d98-af30-de989dfbfc1f",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
     {
       "uid": "f7b74d16-f8a5-43be-ac79-c2a7db0e59b2",
@@ -41,7 +53,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "3db8994e-b23e-4732-82bd-a0cbc8107b2a",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
     {
       "uid": "ecb7a6b5-c9f1-4a3f-8ff7-524dd38678d7",
@@ -53,7 +69,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
 	 {
       "uid": "70f998af-e978-4f2e-9c0d-c808796243ce",
@@ -66,7 +86,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
 	 {
       "uid": "6f512f23-e969-4caa-89c8-d7f31a8dcaf4",
@@ -80,7 +104,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	   "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
 	{
       "uid": "e7e8b109-3ff2-4b4a-a57a-7df26db29586",
@@ -95,7 +123,11 @@
 	  "prix": 0.91,
 	  "uid_unite_5": "04468d2c-570e-46e3-92f1-c190974f16b0",
 	  "uid_t": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
-	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce"
+	  "uid_rem": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
+	  "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
 	{
       "uid": "756dbf8f-13c8-4fe3-b743-81d00d6f0530",
@@ -104,7 +136,11 @@
 	  "date_debut": "01/01/2026 00:00:00.000000",
 	  "date_fin": "31/12/2026 23:59:59.999999",
 	  "uid_unite_1": "7053a8af-4890-4098-80ff-378d0a5c2860",
-	  "prix": 2.00
+	  "prix": 2.00,
+	  "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 2,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 2,
     },
 	{
       "uid": "2c9b3fe3-617c-4fbc-a22a-a8c6f6c66a22",
@@ -113,7 +149,11 @@
 	  "date_debut": "01/01/2026 00:00:00.000000",
 	  "date_fin": "31/12/2026 23:59:59.999999",
 	  "uid_unite_1": "6ab6cda3-6a3c-4121-85a6-0dfd8e501a74",
-	  "prix": 1.00
+	  "prix": 1.00,
+	  "article_enum_type_arrondi": "COM",
+      "article_nombre_decimale": 0,
+	  "quantite_enum_type_arrondi": "COM",
+	  "quantite_nombre_decimale": 0,
     }
   ]
 }
