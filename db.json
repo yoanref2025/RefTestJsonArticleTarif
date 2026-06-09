@@ -18,12 +18,12 @@
       "uid_a": "8ad055ea-7ba7-4948-ac7f-f7b5ee918166",
 	  "date_debut": "01/01/2026 00:00:00.000000",
 	  "date_fin": "31/12/2026 23:59:59.999999",
-	  "uid_unite_1": "06698629-3142-4214-9066-c35f58e324e7",
+	  "uid_unite_1": "a3842650-0bdd-4af3-b272-c5a58b8baf6c",
 	  "prix": 0.00,
 	  "article_enum_type_arrondi": "COM",
-      "article_nombre_decimale": 0,
+      "article_nombre_decimale": 2,
 	  "quantite_enum_type_arrondi": "COM",
-	  "quantite_nombre_decimale": 2
+	  "quantite_nombre_decimale": 0
     },
     {
       "uid": "bd82fba5-d712-4ca2-be60-3f2234c22759",
