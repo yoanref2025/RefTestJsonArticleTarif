@@ -164,7 +164,7 @@
 	  "uid_unite_1": "e2b5e6bf-9150-47df-979d-d7b527bb4f7c",
 	  "prix": 0.11,
 	  "article_enum_type_arrondi": "COM",
-      "article_nombre_decimale": 0,
+      "article_nombre_decimale": 2,
 	  "quantite_enum_type_arrondi": "COM",
 	  "quantite_nombre_decimale": 0
     }
